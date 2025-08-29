@@ -107,3 +107,10 @@ Excel / CSV (Data Source)
 
 This project demonstrates how HR Analytics can help organizations improve attendance tracking, workforce planning, and employee engagement.
 Even small to mid-sized companies can benefit from data-driven HR strategies to boost performance and optimize resources.
+## 🔗 Live Dashboard
+- **Public demo (no sign-in):** <ADD_YOUR_PUBLISH_TO_WEB_LINK_HERE>
+- **Secure (org-only) link:** <ADD_YOUR_SECURE_SHARE_LINK_HERE>
+
+> If the public link ever stops working, regenerate via:
+> Power BI Service → File → Embed report → Publish to web (public).
+
